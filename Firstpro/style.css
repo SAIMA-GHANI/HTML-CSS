@@ -1,0 +1,91 @@
+*{ padding: 0%;
+   color: white;
+   margin:0%;}
+h1{ 
+   margin-left: 20px;
+   padding-top: 20px;
+}
+ #Navbar {
+    height: 100px;
+    background-color:black;
+    border-width: 8px;
+    border-style: solid;
+    border-color:rgb(39, 160, 208);
+ }
+a{ 
+   margin: 50px;
+   cursor: pointer;
+}
+#home1{
+   margin-left:550;
+padding-left: 500px;
+}
+h2{
+   color: red;
+   padding-left: 20px;
+   padding-top: 20px;
+   border-width: 7px;
+    border-style: solid;
+    border-color:rgb(39, 160, 208);
+    background-color:black;
+}
+
+#blueR{ 
+   margin-top: 80px;
+   color:darkblue;
+   padding-left: 20px;
+   padding-top: 20px;
+   border-width: 7px;
+    border-style: solid;
+    border-color:rgb(39, 160, 208) ;
+    background-color:black;
+}
+#WhiteL{margin-top: 80px;
+   color: white;
+   padding-left: 20px;
+   padding-top: 20px;
+   border-width: 7px;
+    border-style: solid;
+    border-color:rgb(39, 160, 208) ;
+    background-color:black;
+}
+#Sunflower {
+   margin-top: 80px;
+   color: yellow;
+   padding-left: 20px;
+   padding-top: 20px;
+   border-width: 7px;
+    border-style: solid;
+    border-color:rgb(39, 160, 208) ;
+    background-color:black;
+}
+
+.img-all
+{height:350px;}
+
+#pra-one
+{
+   color: red;
+  line-height:30px;
+  font-size: large;
+}
+#pra-two{color:blue;
+line-height:30px;
+font-size: large;}
+
+#pra-three{color:white;
+   line-height:30px;
+   font-size: large;
+
+}
+#pra-four
+{color:yellow;
+   line-height:30px;
+   font-size: large;
+}
+body{
+   background-color: black;
+}
+
+
+
